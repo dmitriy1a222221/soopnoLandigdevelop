@@ -1,0 +1,106 @@
+@media screen and (max-width: 1245px) {
+  .aboutus__head-content .aboutus-description__sub-title {
+    line-height: 21px; }
+  .team__item-hov .team-item__description {
+    font: 0.8em/18px 'RalewayRegular', sans-serif; } }
+
+@media screen and (max-width: 884px) {
+  .works__box-img img {
+    max-width: 240px; }
+  .service__ul-hover_p {
+    font-size: .9em; } }
+
+@media screen and (max-width: 870px) {
+  .aboutus {
+    padding-top: 80px;
+    padding-bottom: 100px; }
+  .aboutus__head-content {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    padding-top: 75px; }
+  .aboutus__head-content .aboutus-description {
+    width: 100%;
+    margin: 120px auto 0;
+    text-align: center; }
+  .aboutus__wrapp-slider {
+    margin: 30px auto 0; }
+  .thenSay__wrapp-slider_1 {
+    margin: 120px auto 0; } }
+
+@media screen and (max-width: 840px) {
+  .team__wrap-item {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; } }
+
+@media screen and (max-width: 824px) {
+  .form-wrap {
+    margin-right: 0; } }
+
+@media screen and (max-width: 810px) {
+  .thenSays__sliders-wrap {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; } }
+
+@media screen and (max-width: 763px) {
+  .header__title {
+    font: 2.1125em/65px 'MontserratBold'; } }
+
+@media screen and (max-width: 644px) {
+  .works__box-img img {
+    max-width: 320px; }
+  .footer {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; } }
+
+@media screen and (max-width: 615px) {
+  div[class*='service__wrap-part'] {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+  .service__wrap_large-block {
+    margin-right: 0; }
+  .service__wrap-part_two .service__item_5 {
+    margin-right: 0; }
+  .aboutus__wrapp-slider {
+    background: none; }
+  .thenSay__wrapp-slider_1 {
+    background: none; } }
+
+@media screen and (max-width: 593px) {
+  .header__title {
+    font: 1.6em/46px 'MontserratBold'; }
+  .header-section__content {
+    padding: 75px 0; }
+  .wrapp-button {
+    padding-top: 75px; }
+  .works {
+    padding: 70px 15px 65px 15px; }
+  .works__box-img {
+    margin-top: 90px; } }
+
+@media screen and (max-width: 495px) {
+  .aboutus {
+    padding-left: 0;
+    padding-right: 0; }
+  .aboutus__slider {
+    overflow: hidden; }
+  .thenSay__slider {
+    overflow: hidden; } }
+
+@media screen and (max-width: 440px) {
+  .aboutus__overflow {
+    height: 350px; }
+  .thenSay__overflow {
+    height: 350px; }
+  .aboutus__head-content .aboutus-description {
+    margin-top: 0; } }
+
+@media screen and (max-width: 386px) {
+  .aboutus__title {
+    font-size: 1.675em; }
+  .aboutus__sub-title {
+    font-size: 1em; } }
